@@ -4,7 +4,7 @@ public class StringStatement {
 
 	public static void main (String[]args) {
 		
-		String stm="Aowtham hello ";
+		String stm="gowtham hello ";
 		System.out.println(stm);
 		String sam=new String("aio");
 	    System.out.println(sam);
@@ -20,6 +20,6 @@ public class StringStatement {
 	    System.out.println("fff"+stm.concat(sam));
 	    System.out.println(stm.trim());
 	    System.out.println(stm.compareTo(sam));
-	}
-	
+		
+  }
 }

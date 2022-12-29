@@ -4,8 +4,10 @@ public class StringStatement {
 
 	public static void main (String[]args) {
 		
+         //Strings Methods from Java docs
+
 		String stm="Aowtham hello ";
-		System.out.println(stm);
+		System.out.println(stm);   
 		String sam=new String("aio");
 	    System.out.println(sam);
 	    System.out.println(stm.length());
